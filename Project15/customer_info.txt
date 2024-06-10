@@ -1,0 +1,126 @@
+Budget: 200000 PKR
+Location Choice: 2
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 25
+Number of People: 5
+Total Expenses: 100000 PKR
+User Rating: 4.6
+-----------------------------------
+Budget: 200000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 5
+Number of People: 5
+Total Expenses: 40000 PKR
+User Rating: 4.9
+-----------------------------------
+Budget: 1000000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 2
+Number of Days: 20
+Number of People: 10
+Total Expenses: 80000 PKR
+User Rating: 5
+-----------------------------------
+Budget: 143000 PKR
+Location Choice: 2
+Hotel Type: 2
+Travel Type: 1
+Number of Days: 25
+Number of People: 20
+Total Expenses: 150000 PKR
+User Rating: 4.6
+-----------------------------------
+Budget: 555555 PKR
+Location Choice: 2
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 50
+Number of People: 5
+Total Expenses: 175000 PKR
+User Rating: 5
+-----------------------------------
+Budget: 92400 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 2
+Number of People: 2
+Total Expenses: 16000 PKR
+User Rating: 4
+-----------------------------------
+Budget: 1111111 PKR
+Location Choice: 2
+Hotel Type: 3
+Travel Type: 2
+Number of Days: 3
+Number of People: 2
+Total Expenses: 13000 PKR
+User Rating: 0
+-----------------------------------
+Budget: 5000 PKR
+Location Choice: 2
+Hotel Type: 2
+Travel Type: 2
+Number of Days: 10
+Number of People: 5
+Total Expenses: 30000 PKR
+User Rating: 3
+-----------------------------------
+Budget: 200000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 10
+Number of People: 5
+Total Expenses: 55000 PKR
+User Rating: 4.5
+-----------------------------------
+Budget: 20000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 2
+Number of Days: 5
+Number of People: 3
+Total Expenses: 21000 PKR
+User Rating: 5
+-----------------------------------
+Budget: 1000 PKR
+Location Choice: 3
+Hotel Type: 1
+Travel Type: 2
+Number of Days: 1
+Number of People: 1
+Total Expenses: 3000 PKR
+User Rating: 4
+-----------------------------------
+Budget: 200000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 4
+Number of People: 2
+Total Expenses: 22000 PKR
+User Rating: 4
+-----------------------------------
+Budget: 5720000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 5
+Number of People: 2
+Total Expenses: 25000 PKR
+User Rating: 4.5
+-----------------------------------
+Budget: 572000 PKR
+Location Choice: 4
+Hotel Type: 3
+Travel Type: 1
+Number of Days: 4
+Number of People: 4
+Total Expenses: 32000 PKR
+User Rating: 4
+-----------------------------------
