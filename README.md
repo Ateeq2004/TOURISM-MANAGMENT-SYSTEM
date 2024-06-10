@@ -1,0 +1,1 @@
+The Tourism System Management Program is a console-based application developed in C++. It assists users in planning trips to popular tourist spots in Pakistan. The program guides users through a series of steps to select their destination, estimate their budget, choose their accommodation and travel types, and finally calculate the total expenses.
